@@ -14,5 +14,5 @@ Maven 3.8.6
 
 -Ingresar a InteliJ
 -Clic en Open Project y seleccionar "EvaluacionQA-Preg1"
--Ir a consola y ejecutar el commando <strong>mvn verify</strong>
--Reporteria se veera en la ruta <strong>target/site/serenity/index.html</strong>
+-Ir a consola y ejecutar el commando <strong>"mvn verify"</strong>
+-Reporteria se veera en la ruta <strong>"target/site/serenity/index.html"</strong>
